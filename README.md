@@ -16,7 +16,7 @@
 - Rapid and Adaptive ⚡️
 - Problem Solver 💡
 
-[![committers.top badge](https://user-badge.committers.top/south_africa/mbuyiseloc.svg)](https://user-badge.committers.top/south_africa/mokhelek)
+[![committers.top badge](https://user-badge.committers.top/south_africa/mbuyiseloc.svg)](https://user-badge.committers.top/south_africa/mbuyiseloc)
 
 # 🛠 Tech Stack
 
@@ -47,9 +47,9 @@
 
 
 <p align="center">
-    <a href="https://github.com/mbuyiseloc/SocialWriter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mbuyiseloc=SocialWriter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-    <a href="https://github.com/mbuyiseloc/a-django-built-resume-generator.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mbuyiseloc&repo=a-django-built-resume-generator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
-    <a href="https://github.com/mbuyiseloc/mzansi-chess"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mbuyiseloc&repo=mzansi-chess&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/33mmanu33l/SocialWriter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mbuyiseloc=SocialWriter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/33mmanu33l/a-django-built-resume-generator.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mbuyiseloc&repo=a-django-built-resume-generator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
+    <a href="https://github.com/33mmanu33l/mzansi-chess"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mbuyiseloc&repo=mzansi-chess&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
 
 
